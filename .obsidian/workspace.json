@@ -11,10 +11,14 @@
             "id": "58810a6f4dcb9ae9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Test"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Test.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Test"
             }
           },
           {
@@ -167,6 +175,8 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ed82e5cc1b084878",
-  "lastOpenFiles": []
+  "active": "58810a6f4dcb9ae9",
+  "lastOpenFiles": [
+    "Test.md"
+  ]
 }
