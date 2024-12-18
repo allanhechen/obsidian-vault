@@ -29,7 +29,7 @@
               "state": {
                 "file": "Interview Preparation/Technical/Best Practices.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Best Practices"
