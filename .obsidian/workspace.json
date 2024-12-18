@@ -151,12 +151,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ed726761756f6746",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,7 +185,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "58810a6f4dcb9ae9",
+  "active": "ed726761756f6746",
   "lastOpenFiles": [
     "Interview Preparation/Technical/Leetcode Best Practices.md",
     "Interview Preparation/Technical/Leetcode Question Format.md",
