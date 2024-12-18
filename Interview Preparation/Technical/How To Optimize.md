@@ -8,4 +8,12 @@ Brute force solutions often execute the same operations over and over again. Thi
 
 ## 3. Try different data structures
 
-Different data structures serve different purposes (ex. lookup is )
+Different data structures serve different purposes (ex. lookup is the slowest -> use a hashmap).
+
+___
+## 4. Change data in-place
+
+Usually not good idea to do in practice, but in Leetcode questions it might be a good idea to reduce new space assigned.
+
+___
+Retrieved from [Tech Interview handbook](https://www.techinterviewhandbook.org/coding-interview-techniques/)
