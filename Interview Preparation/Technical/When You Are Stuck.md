@@ -22,10 +22,22 @@ Many times a large question can be broken down into smaller questions with simil
 
 Literally throw common data structures at the problem, since all Leetcode questions are designed to be solved.
 
+Data structures include:
 1. Hashmaps: Efficient lookups, most likely will have to be used
 2. Graphs: Associations between entities
 3. Stack and queue: Parse strings with nested properties
-4. Heap: Scheduling and ordering based on some priority (helps find )
+4. Heap: Scheduling and ordering based on some priority (helps find K/min and K/median)
+5. Tree/Trie: Store strings in space-efficient manner
+
+Routines include:
+1. Sorting
+2. Binary search
+3. Sliding window
+4. Two pointers
+5. Union find
+6. BFS/DFS
+7. Traverse from the back
+8. Topological Sorting
 
 ___
 Retrieved from [Tech Interview handbook](https://www.techinterviewhandbook.org/coding-interview-techniques/)
