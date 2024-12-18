@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Preparation/Technical/Leetcode Question Format.md",
+                "file": "Interview Preparation/Technical/Leetcode Best Practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Question Format"
+              "title": "Leetcode Best Practices"
             }
           }
         ]
@@ -185,10 +185,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ed726761756f6746",
+  "active": "58810a6f4dcb9ae9",
   "lastOpenFiles": [
-    "Interview Preparation/Technical/Leetcode Best Practices.md",
     "Interview Preparation/Technical/Leetcode Question Format.md",
+    "Interview Preparation/Technical/Leetcode Best Practices.md",
     "Interview Preparation/Untitled.md",
     "Interview Preparation/Technical/Leetcode Questions",
     "Interview Preparation/Technical",
