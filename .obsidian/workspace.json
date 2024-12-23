@@ -166,8 +166,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,7 +200,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "69c4046a8c59307c",
+  "active": "ed82e5cc1b084878",
   "lastOpenFiles": [
     "The Algorithm Design Manual/1. Introduction to Algorithm Design/1.4 Induction and Recursion.md",
     "The Algorithm Design Manual/1. Introduction to Algorithm Design/1.3 Reasoning About Correctness.md",
