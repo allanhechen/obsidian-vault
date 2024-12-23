@@ -22,4 +22,4 @@ ___
 It represents the first number it pairs with the iterable object.
 <!--SR:!2024-12-25,3,250-->
 
-#flashcards/pythonBuiltIn
+#flashcards/python
