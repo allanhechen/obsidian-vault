@@ -26,3 +26,21 @@ list.sort()
 ## Sorting Order
 - both sort in ascending order by default
 - the `reverse=True` argument can be provided for sorting in descending order
+
+## Comparison Functions
+```python
+cmp(a, b)
+```
+- comparison functions return a value < 0 if a comes before b
+- 0 if they are equal
+- positive if it comes after b
+- these can be used as follows to convert them into python keys
+```python
+sorted(myList, key=cmp_to_list(comparatorFunction))
+
+myList.sort(key=cmp_to_list(comparatorFunction))
+
+```
+
+___
+Retrieved from the [Python3 documentation](https://docs.python.org/3/howto/sorting.html)
