@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Preparation/Technical/When You Are Stuck.md",
+                "file": "Python BuiltIn Functions/Enumerate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "When You Are Stuck"
+              "title": "Enumerate"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python BuiltIn Functions/Enumerate.md",
+                "file": "The Algorithm Design Manual/1. Introduction to Algorithm Design/1.4 Induction and Recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumerate"
+              "title": "1.4 Induction and Recursion"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,17 +213,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e8676a4a51b5e8f9",
+  "active": "7a119ec4454152be",
   "lastOpenFiles": [
+    "Interview Preparation/Technical/When You Are Stuck.md",
     "Interview Preparation/Technical/Best Practices.md",
-    "Python BuiltIn Functions/Enumerate.md",
-    "Python BuiltIn Functions",
     "The Algorithm Design Manual/1. Introduction to Algorithm Design/1.4 Induction and Recursion.md",
     "The Algorithm Design Manual/1. Introduction to Algorithm Design/1.3 Reasoning About Correctness.md",
+    "Python BuiltIn Functions/Enumerate.md",
+    "Python BuiltIn Functions",
     "The Algorithm Design Manual/1. Introduction to Algorithm Design",
     "The Algorithm Design Manual",
     "Interview Preparation/Technical/How To Optimize.md",
-    "Interview Preparation/Technical/When You Are Stuck.md",
     "When.md",
     "Interview Preparation/Technical/Question Format.md",
     "Interview Preparation/Technical/Leetcode Questions",
